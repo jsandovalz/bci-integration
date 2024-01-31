@@ -17,6 +17,7 @@
 * Swagger - springdoc
 * lombok library
 * Junit
+* 
 
 ## Getting Started
 
@@ -30,6 +31,10 @@ To build and run the project, follow these steps:
 -> The application will be available at http://localhost:8080/api/users
 
 -> The swagger documentation available at http://localhost:8080/swagger-ui.html
+
+-> You can test am end-points entry using swagger, open the url above before and execute the Registry User and / or  List All users
+
+![img.png](src/main/resources/img.png)
 
 
 
